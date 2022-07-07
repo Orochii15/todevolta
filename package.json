@@ -1,0 +1,33 @@
+{
+  "name": "Base v1 | Merlin dus Bot",
+  "version": "1.0.0",
+  "description": "Somente uma base para fazer bots de WhatsApp",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.6",
+    "archiver": "^5.3.0",
+    "discord-webhook-node": "^1.1.8",
+    "express": "^4.17.1",
+    "gradient-string": "^1.2.0",
+    "ip": "^1.1.5",
+    "merge-descriptors": "^1.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "luna",
+    "tdm"
+  ],
+  "author": "Merlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://www.youtube.com/channel/UCdSdStV1uWImtt5gINwYvgg"
+  },
+  "homepage": "https://www.youtube.com/channel/UCdSdStV1uWImtt5gINwYvgg"
+}
